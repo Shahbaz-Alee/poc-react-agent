@@ -1,0 +1,137 @@
+BASELINE TAX CALCULATION
+==================================================
+
+To calculate Victor Samuel Patel's tax liability, we will follow a structured approach, breaking down each component step by step. 
+
+### 1. Total Income Calculation from All Sources
+
+**Business Income:**
+- Business Income: $248,600
+
+**Other Sources of Income:**
+- Dividends: $5,200
+- Rental Income: $2,800
+- Bank Interest: $1,100
+
+**Total Other Income:**
+\[
+\text{Total Other Income} = \text{Dividends} + \text{Rental Income} + \text{Bank Interest} = 5,200 + 2,800 + 1,100 = 9,100
+\]
+
+**Total Income:**
+\[
+\text{Total Income} = \text{Business Income} + \text{Total Other Income} = 248,600 + 9,100 = 257,700
+\]
+
+### 2. Business Expenses and Deductions
+
+**Business Expenses:**
+- Ads: $8,700
+- Software: $9,200
+- Hardware: $6,800
+- Travel: $4,500
+- Insurance: $3,900
+- Subcontractors: $28,200
+
+**Total Business Expenses:**
+\[
+\text{Total Business Expenses} = 8,700 + 9,200 + 6,800 + 4,500 + 3,900 + 28,200 = 61,300
+\]
+
+### 3. Adjusted Gross Income (AGI)
+
+**AGI Calculation:**
+\[
+\text{AGI} = \text{Total Income} - \text{Total Business Expenses} = 257,700 - 61,300 = 196,400
+\]
+
+### 4. Federal Income Tax Calculation with Tax Brackets
+
+For the tax year 2023, the federal income tax brackets for married filing jointly are as follows:
+
+- 10% on income up to $22,000
+- 12% on income over $22,000 up to $89,450
+- 22% on income over $89,450 up to $190,750
+- 24% on income over $190,750 up to $364,200
+
+**Tax Calculation:**
+1. **10% Bracket:**
+   \[
+   \text{Tax} = 22,000 \times 0.10 = 2,200
+   \]
+
+2. **12% Bracket:**
+   \[
+   \text{Tax} = (89,450 - 22,000) \times 0.12 = 67,450 \times 0.12 = 8,094
+   \]
+
+3. **22% Bracket:**
+   \[
+   \text{Tax} = (190,750 - 89,450) \times 0.22 = 101,300 \times 0.22 = 22,286
+   \]
+
+4. **24% Bracket:**
+   \[
+   \text{Tax} = (196,400 - 190,750) \times 0.24 = 5,650 \times 0.24 = 1,356
+   \]
+
+**Total Federal Tax:**
+\[
+\text{Total Federal Tax} = 2,200 + 8,094 + 22,286 + 1,356 = 33,936
+\]
+
+### 5. State Tax Calculation (Texas)
+
+Texas does not have a state income tax, so:
+\[
+\text{State Tax} = 0
+\]
+
+### 6. FICA Taxes (Social Security and Medicare)
+
+**FICA Taxes:**
+- Social Security Tax: 6.2% on income up to $160,200
+- Medicare Tax: 1.45% on all income
+
+**Calculating FICA Taxes:**
+1. **Social Security Tax:**
+   \[
+   \text{Social Security Tax} = 160,200 \times 0.062 = 9,932.40
+   \]
+
+2. **Medicare Tax:**
+   \[
+   \text{Medicare Tax} = 196,400 \times 0.0145 = 2,851.80
+   \]
+
+**Total FICA Taxes:**
+\[
+\text{Total FICA Taxes} = 9,932.40 + 2,851.80 = 12,784.20
+\]
+
+### 7. Total Tax Liability
+
+**Total Tax Liability:**
+\[
+\text{Total Tax Liability} = \text{Total Federal Tax} + \text{State Tax} + \text{Total FICA Taxes} = 33,936 + 0 + 12,784.20 = 46,720.20
+\]
+
+### 8. Effective Tax Rate
+
+**Effective Tax Rate Calculation:**
+\[
+\text{Effective Tax Rate} = \frac{\text{Total Tax Liability}}{\text{AGI}} \times 100 = \frac{46,720.20}{196,400} \times 100 \approx 23.75\%
+\]
+
+### Summary of Tax Calculation
+
+1. **Total Income:** $257,700
+2. **Total Business Expenses:** $61,300
+3. **Adjusted Gross Income (AGI):** $196,400
+4. **Total Federal Tax:** $33,936
+5. **State Tax:** $0
+6. **Total FICA Taxes:** $12,784.20
+7. **Total Tax Liability:** $46,720.20
+8. **Effective Tax Rate:** 23.75%
+
+This comprehensive breakdown provides a detailed view of Victor Samuel Patel's tax situation for the year.
